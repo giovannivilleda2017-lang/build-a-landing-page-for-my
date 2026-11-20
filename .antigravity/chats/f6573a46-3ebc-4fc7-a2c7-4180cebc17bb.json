@@ -4,5 +4,18 @@
   "createdAt": "2026-11-20T06:16:57.265Z",
   "filename": "f6573a46-3ebc-4fc7-a2c7-4180cebc17bb.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "ed8ae3ec-981e-432c-af13-8dc30a82d143",
+      "role": "user",
+      "content": "That code didn't go through — they only last a minute, so it had probably run out. Here's a fresh link.\n\n1. [Sign in with Google](https://accounts.google.com/o/oauth2/auth?access_type=offline&client_id=1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com&code_challenge=3f8VwixXi8fNvwR1GkeU1oqseMwWhHMaceBd5UyRl9Y&code_challenge_method=S256&prompt=consent&redirect_uri=https%3A%2F%2Fantigravity.google%2Foauth-callback&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcclog+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fexperimentsandconfigs+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faicode+openid&state=ySrDG8EOg7X1lAlKE2t-hg)\n2. Copy the code Google shows you\n3. Paste it here\n\nThe link is good for 60 seconds. If it runs out, send any message and you'll get a new one.",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-20T06:22:04.061Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
